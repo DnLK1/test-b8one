@@ -1,0 +1,6 @@
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+    background: #E9EBEE;
+}
